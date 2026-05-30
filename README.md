@@ -58,19 +58,19 @@ Please read the script before using it. Linux will do exactly what you tell it t
 First we download the installer script file:
 
 ```bash
-wget https://raw.githubusercontent.com/KD5FMU/YOUR-REPOSITORY-NAME/refs/heads/main/install.sh
+wget https://raw.githubusercontent.com/KD5FMU/Staying-Connected/refs/heads/main/install-asl3-check-connection.sh
 ```
 
 Then make it executable:
 
 ```bash
-sudo chmod +x install.sh
+sudo chmod +x install-asl3-check-connection.sh
 ```
 
 Then we can execute the installer script:
 
 ```bash
-sudo ./install.sh
+sudo ./install-asl3-check-connection.sh
 ```
 
 Once the installer is finished, you will need to edit the config file.
