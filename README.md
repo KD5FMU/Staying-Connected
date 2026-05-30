@@ -5,6 +5,7 @@ This is a simple AllStarLink Version 3 helper script for Debian 12 that checks t
 If your node is not connected to the node you choose, the script will automatically send the connect command and reconnect it.
 
 This can be useful if you want your AllStarLink node to stay connected to a hub, repeater, private node, or another AllStarLink node.
+- [Installation](#installation)
 
 ## What This Installs
 
@@ -53,7 +54,8 @@ It is designed to be simple and easy to understand.
 
 Please read the script before using it. Linux will do exactly what you tell it to do, even if you had more coffee than sleep.
 
-## Install Instructions
+## Installation
+Install Instructions
 
 First we download the installer script file:
 
