@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Staying Connected Script created by Freddie Mac - KD5FMU and ChatGPT in June of 2026
 
 set -euo pipefail
 
