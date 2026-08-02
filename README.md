@@ -1,4 +1,4 @@
-![logo](url)
+![logo](https://github.com/KD5FMU/Staying-Connected/blob/main/staying-connected.png)
 # ASL3 Check Connection Script
 
 This is a simple AllStarLink Version 3 helper script for Debian 12 that checks to see if your node is connected to another node.
